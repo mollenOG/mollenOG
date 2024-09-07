@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vincent Mollenzo (Mollen OG)</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Independent Developer from India, working in blockchain, AI/ML and some cool projects</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mollenog" alt="mollenog" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mollenog" target="blank"><img src="https://img.shields.io/twitter/follow/mollenog?logo=twitter&style=for-the-badge" alt="mollenog" /></a> </p>
 
-- 🔭 I’m currently working on **to publish my research paper, although i am just in my bachelor's degree.**
 
 - 🌱 I’m currently learning **about writing algorithms and playing around with blockchain and ML.**
 
